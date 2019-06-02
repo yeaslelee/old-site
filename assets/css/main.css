@@ -240,12 +240,15 @@ input, select, textarea {
 	}
 
 	#research > p {
-		margin: 2em 0 30px 0;
+		margin: 1em 0 30px 0;
 	}
 	#research > ul {
 		list-style: disc;
     margin: 2em 0 0 0;
     padding-left: 1em;
+	}
+	#first-research-ul{
+		margin: 3em 0 0 0 !important;
 	}
 
 	.research-p {
